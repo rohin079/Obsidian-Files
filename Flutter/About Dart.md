@@ -1,0 +1,3 @@
+- Object Oriented and strongly typed language
+- A mixture of Javascript, Java and C#
+- Developed by Google in 2011
