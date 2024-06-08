@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA Java/Java Basics.md",
+                "file": "Zelto/ZELTO STATUS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Java/Java Basics.md",
+                "file": "Zelto/ZELTO STATUS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Java/Java Basics.md",
+                "file": "Zelto/ZELTO STATUS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Java/Java Basics.md"
+                "file": "Zelto/ZELTO STATUS.md"
               }
             }
           }
@@ -211,13 +211,13 @@
   },
   "active": "686b2156564813a1",
   "lastOpenFiles": [
+    "DSA Java/Java Basics.md",
     "Flutter/Inkwell Widget.md",
     "Flutter/Flutter Project Structure.md",
     "Flutter/Text Widget in Flutter.md",
     "Flutter/Lists (Arrays) in Dart.md",
     "Flutter/Buttons in Flutter.md",
     "Machine Learning/Types of Learnings.md",
-    "DSA Java/Java Basics.md",
     "Pasted image 20240607162143.png",
     "Pasted image 20240607161916.png",
     "Pasted image 20240607161655.png",
