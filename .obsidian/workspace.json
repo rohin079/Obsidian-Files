@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md",
+                "file": "React/State Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md",
+                "file": "React/State Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md",
+                "file": "React/State Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md"
+                "file": "React/State Management.md"
               }
             }
           }
@@ -189,10 +189,16 @@
   },
   "active": "3f989261c92dc67d",
   "lastOpenFiles": [
+    "React/Map Function.md",
+    "React/How to store images in Production.md",
+    "React/Custom Hooks.md",
+    "React/CSS FlexBox.md",
+    "React/Creating Website.md",
+    "React/Components in React.md",
+    "intern JSM/TypeScript Basics.md",
     "intern JSM/Updates so far -.md",
     "Untitled.md",
     "intern JSM/Cost Table.md",
-    "intern JSM/TypeScript Basics.md",
     "DSA Java/Java Basics.md",
     "DSA Java/Patterns.md",
     "DSA Java/Arrays.md",
@@ -205,8 +211,6 @@
     "JavaSc.md",
     "Untitled 3.md",
     "Untitled.canvas",
-    "React/Map Function.md",
-    "React/CSS FlexBox.md",
     "intern JSM/Day 1 Notes.md",
     "Assets/Pasted image 20240212174220.png",
     "Assets/Pasted image 20240212182541.png",
@@ -224,10 +228,6 @@
     "Assets/Pasted image 20240607161642.png",
     "Assets/Pasted image 20240607161623.png",
     "DSA Java/Strings.md",
-    "DSA Java/Sorting.md",
-    "DSA Java/Graphs.md",
-    "DSA Java/DSA Index.md",
-    "Untitled 1.md",
     "intern JSM",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

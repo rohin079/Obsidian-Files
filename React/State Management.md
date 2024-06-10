@@ -14,5 +14,12 @@ This is the code for middleware we are using:
 
 ![[Pasted image 20240404111117.png]]
 
+## Various Ways of State management:
 
+For managing state in our project, we can either use :
+
+- Passing Props by parent component to child component
+- Recoil
+- Redux
+- Context
 
