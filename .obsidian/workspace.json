@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intern JSM/Updates so far -.md",
+                "file": "intern JSM/TypeScript Basics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intern JSM/Updates so far -.md",
+                "file": "intern JSM/TypeScript Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intern JSM/Updates so far -.md",
+                "file": "intern JSM/TypeScript Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intern JSM/Updates so far -.md"
+                "file": "intern JSM/TypeScript Basics.md"
               }
             }
           }
@@ -189,8 +189,8 @@
   },
   "active": "3f989261c92dc67d",
   "lastOpenFiles": [
-    "Untitled.md",
     "intern JSM/Updates so far -.md",
+    "Untitled.md",
     "intern JSM/Cost Table.md",
     "intern JSM/TypeScript Basics.md",
     "DSA Java/Java Basics.md",
