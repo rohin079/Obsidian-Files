@@ -23,3 +23,5 @@ For managing state in our project, we can either use :
 - Redux
 - Context
 
+For recoil, we can simply update the parent state, but it has a con that everything will re-render again
+
