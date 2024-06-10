@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"2cf5765a1bd96f3f","type":"file","file":"Pasted image 20240507103856.png","x":450,"y":14,"width":190,"height":412},
-		{"id":"d808892a3ef2564b","type":"file","file":"Pasted image 20240507103444.png","x":421,"y":-508,"width":185,"height":400},
-		{"id":"4c72c06dca475b3f","type":"file","file":"Pasted image 20240507103740.png","x":-560,"y":-508,"width":185,"height":400},
-		{"id":"15e218b18ed98985","type":"file","file":"Pasted image 20240507103533.png","x":110,"y":14,"width":185,"height":400},
-		{"id":"5d2e66f27cbffcb0","type":"file","file":"Pasted image 20240507103544.png","x":-200,"y":0,"width":185,"height":400},
-		{"id":"d2a852c8f8413804","type":"file","file":"Pasted image 20240507103805.png","x":-467,"y":40,"width":185,"height":400},
-		{"id":"4d064366882124e1","type":"file","file":"Pasted image 20240507103830.png","x":-745,"y":-73,"width":185,"height":400},
-		{"id":"db2b072173cd9ef6","type":"file","file":"Pasted image 20240507103401.png","x":80,"y":-560,"width":185,"height":401,"color":"4"},
-		{"id":"669ff8604c5f0129","type":"file","file":"Pasted image 20240507103321.png","x":-232,"y":-540,"width":185,"height":401,"color":"4"},
+		{"id":"2cf5765a1bd96f3f","type":"file","file":"Assets/Pasted image 20240507103856.png","x":450,"y":14,"width":190,"height":412},
+		{"id":"d808892a3ef2564b","type":"file","file":"Assets/Pasted image 20240507103444.png","x":421,"y":-508,"width":185,"height":400},
+		{"id":"4c72c06dca475b3f","type":"file","file":"Assets/Pasted image 20240507103740.png","x":-560,"y":-508,"width":185,"height":400},
+		{"id":"15e218b18ed98985","type":"file","file":"Assets/Pasted image 20240507103533.png","x":110,"y":14,"width":185,"height":400},
+		{"id":"5d2e66f27cbffcb0","type":"file","file":"Assets/Pasted image 20240507103544.png","x":-200,"y":0,"width":185,"height":400},
+		{"id":"d2a852c8f8413804","type":"file","file":"Assets/Pasted image 20240507103805.png","x":-467,"y":40,"width":185,"height":400},
+		{"id":"4d064366882124e1","type":"file","file":"Assets/Pasted image 20240507103830.png","x":-745,"y":-73,"width":185,"height":400},
+		{"id":"db2b072173cd9ef6","type":"file","file":"Assets/Pasted image 20240507103401.png","x":80,"y":-560,"width":185,"height":401,"color":"4"},
+		{"id":"669ff8604c5f0129","type":"file","file":"Assets/Pasted image 20240507103321.png","x":-232,"y":-540,"width":185,"height":401,"color":"4"},
 		{"id":"9344c2d203aaf765","type":"text","text":"  ZELTO","x":-47,"y":-107,"width":250,"height":69,"color":"6"}
 	],
 	"edges":[

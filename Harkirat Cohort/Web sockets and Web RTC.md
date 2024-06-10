@@ -8,7 +8,7 @@ To first let the browser know their IP and port number to send to other browser 
 
 ![[Pasted image 20240421184303.png]]
 
-`Ice Candidates` - `Ip:Port` pair we get through STUN server is called ice candidates.
+`Ice Candidates` - `Ip:Port` pair + protocol we get through STUN server is called ice candidates.
 
 ![[Pasted image 20240421192647.png]]
 

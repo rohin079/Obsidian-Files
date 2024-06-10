@@ -34,42 +34,6 @@
             }
           },
           {
-            "id": "b8e43b015da5075c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intern JSM/Day 1 Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "686b2156564813a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zelto/ZELTO STATUS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e34d538b63c7b643",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240507103830.png"
-              }
-            }
-          },
-          {
             "id": "953b88b99b92a1d4",
             "type": "leaf",
             "state": {
@@ -83,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zelto/ZELTO STATUS.md",
+                "file": "Harkirat Cohort/Web sockets and Web RTC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zelto/ZELTO STATUS.md",
+                "file": "Harkirat Cohort/Web sockets and Web RTC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zelto/ZELTO STATUS.md"
+                "file": "Harkirat Cohort/Web sockets and Web RTC.md"
               }
             }
           }
@@ -209,47 +173,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "686b2156564813a1",
+  "active": "7b22d9a25f251704",
   "lastOpenFiles": [
     "DSA Java/Java Basics.md",
+    "Assets/Pasted image 20240610121407.png",
+    "Harkirat Cohort/Web sockets and Web RTC.md",
+    "Hw.md",
+    "JavaSc.md",
+    "Untitled 3.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "React/Map Function.md",
+    "React/CSS FlexBox.md",
+    "intern JSM/Day 1 Notes.md",
+    "Assets/Pasted image 20240212174220.png",
+    "Assets/Pasted image 20240212182541.png",
+    "Assets/Pasted image 20240327122852.png",
+    "Zelto/ZELTO STATUS.md",
+    "Assets",
     "Flutter/Inkwell Widget.md",
     "Flutter/Flutter Project Structure.md",
     "Flutter/Text Widget in Flutter.md",
     "Flutter/Lists (Arrays) in Dart.md",
     "Flutter/Buttons in Flutter.md",
     "Machine Learning/Types of Learnings.md",
-    "Pasted image 20240607162143.png",
-    "Pasted image 20240607161916.png",
-    "Pasted image 20240607161655.png",
-    "Pasted image 20240607161642.png",
-    "Pasted image 20240607161623.png",
-    "Pasted image 20240607161216.png",
-    "Pasted image 20240607161103.png",
-    "Pasted image 20240607152814.png",
+    "Assets/Pasted image 20240607162143.png",
+    "Assets/Pasted image 20240607161916.png",
+    "Assets/Pasted image 20240607161655.png",
+    "Assets/Pasted image 20240607161642.png",
+    "Assets/Pasted image 20240607161623.png",
+    "Assets/Pasted image 20240607161216.png",
     "DSA Java/Strings.md",
     "DSA Java/Sorting.md",
     "DSA Java/Graphs.md",
     "DSA Java/DSA Index.md",
     "intern JSM/Cost Table.md",
-    "intern JSM/Day 1 Notes.md",
     "DSA Java/Arrays.md",
-    "Untitled 3.md",
     "Untitled 1.md",
-    "Harkirat Cohort/Web sockets and Web RTC.md",
     "intern JSM/TypeScript Basics.md",
-    "Pasted image 20240605121427.png",
-    "Pasted image 20240605120404.png",
     "React/Components in React.md",
-    "React/Creating Website.md",
     "intern JSM",
-    "Untitled.canvas",
-    "React/How to store images in Production.md",
-    "React/Custom Hooks.md",
     "Zelto/Flow Diagram of App.canvas",
-    "Zelto/ZELTO STATUS.md",
-    "React/State Management.md",
-    "React/useState Hook.md",
-    "React/CSS FlexBox.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Harkirat Cohort",
@@ -259,7 +223,6 @@
     "Minor 2",
     "DSA Java Assets",
     "DSA Java",
-    "Flutter Assets",
-    "DSA"
+    "Flutter Assets"
   ]
 }
