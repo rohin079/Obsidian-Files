@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harkirat Cohort/Web sockets and Web RTC.md",
+                "file": "DSA Java/Java Basics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harkirat Cohort/Web sockets and Web RTC.md",
+                "file": "DSA Java/Java Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harkirat Cohort/Web sockets and Web RTC.md",
+                "file": "DSA Java/Java Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harkirat Cohort/Web sockets and Web RTC.md"
+                "file": "DSA Java/Java Basics.md"
               }
             }
           }
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +176,14 @@
   },
   "active": "7b22d9a25f251704",
   "lastOpenFiles": [
+    "DSA Java/Patterns.md",
+    "DSA Java/Arrays.md",
+    "DSA Java Assets/Pasted image 20231229170922.png",
+    "Zelto/ZELTO STATUS.md",
+    "Zelto/Flow Diagram of App.canvas",
+    "Harkirat Cohort/Web sockets and Web RTC.md",
     "DSA Java/Java Basics.md",
     "Assets/Pasted image 20240610121407.png",
-    "Harkirat Cohort/Web sockets and Web RTC.md",
     "Hw.md",
     "JavaSc.md",
     "Untitled 3.md",
@@ -189,7 +195,6 @@
     "Assets/Pasted image 20240212174220.png",
     "Assets/Pasted image 20240212182541.png",
     "Assets/Pasted image 20240327122852.png",
-    "Zelto/ZELTO STATUS.md",
     "Assets",
     "Flutter/Inkwell Widget.md",
     "Flutter/Flutter Project Structure.md",
@@ -202,18 +207,15 @@
     "Assets/Pasted image 20240607161655.png",
     "Assets/Pasted image 20240607161642.png",
     "Assets/Pasted image 20240607161623.png",
-    "Assets/Pasted image 20240607161216.png",
     "DSA Java/Strings.md",
     "DSA Java/Sorting.md",
     "DSA Java/Graphs.md",
     "DSA Java/DSA Index.md",
     "intern JSM/Cost Table.md",
-    "DSA Java/Arrays.md",
     "Untitled 1.md",
     "intern JSM/TypeScript Basics.md",
     "React/Components in React.md",
     "intern JSM",
-    "Zelto/Flow Diagram of App.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Harkirat Cohort",
