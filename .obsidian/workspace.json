@@ -11,14 +11,12 @@
             "id": "4ba865fa9ec4931b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Zelto/Flow Diagram of App.canvas",
-                "viewState": {
-                  "x": -52.5,
-                  "y": -60,
-                  "zoom": -0.19790080339389113
-                }
+                "file": "intern JSM/TypeScript Basics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zelto/Flow Diagram of App.canvas",
+                "file": "intern JSM/TypeScript Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zelto/Flow Diagram of App.canvas",
+                "file": "intern JSM/TypeScript Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zelto/Flow Diagram of App.canvas"
+                "file": "intern JSM/TypeScript Basics.md"
               }
             }
           }
@@ -190,6 +188,7 @@
   },
   "active": "4ba865fa9ec4931b",
   "lastOpenFiles": [
+    "Zelto/Flow Diagram of App.canvas",
     "Zelto/ZELTO STATUS.md",
     "intern JSM/Updates so far -.md",
     "React/Creating Website.md",
@@ -206,7 +205,6 @@
     "DSA Java/Patterns.md",
     "DSA Java/Arrays.md",
     "DSA Java Assets/Pasted image 20231229170922.png",
-    "Zelto/Flow Diagram of App.canvas",
     "Harkirat Cohort/Web sockets and Web RTC.md",
     "Assets/Pasted image 20240610121407.png",
     "Hw.md",
@@ -223,7 +221,6 @@
     "Flutter/Text Widget in Flutter.md",
     "Flutter/Lists (Arrays) in Dart.md",
     "Flutter/Buttons in Flutter.md",
-    "Machine Learning/Types of Learnings.md",
     "Assets/Pasted image 20240607162143.png",
     "Assets/Pasted image 20240607161916.png",
     "Assets/Pasted image 20240607161655.png",
