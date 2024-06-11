@@ -18,19 +18,3 @@
 
 
 
-category -
-spilage - 5values
-trria 4 values
-
-
-common table -
-cateogry - 
-dgfegfe
-fe
-gg
-eg
-eg
-
-
-
-
