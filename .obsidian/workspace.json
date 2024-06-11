@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Creating Website.md",
+                "file": "intern JSM/Updates so far -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/State Management.md",
+                "file": "intern JSM/Updates so far -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/State Management.md",
+                "file": "intern JSM/Updates so far -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/State Management.md"
+                "file": "intern JSM/Updates so far -.md"
               }
             }
           }
@@ -187,18 +186,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f989261c92dc67d",
+  "active": "4ba865fa9ec4931b",
   "lastOpenFiles": [
+    "React/Creating Website.md",
+    "intern JSM/Cost Table.md",
+    "React/State Management.md",
     "React/Map Function.md",
     "React/How to store images in Production.md",
     "React/Custom Hooks.md",
     "React/CSS FlexBox.md",
-    "React/Creating Website.md",
     "React/Components in React.md",
     "intern JSM/TypeScript Basics.md",
     "intern JSM/Updates so far -.md",
     "Untitled.md",
-    "intern JSM/Cost Table.md",
     "DSA Java/Java Basics.md",
     "DSA Java/Patterns.md",
     "DSA Java/Arrays.md",
@@ -227,7 +227,6 @@
     "Assets/Pasted image 20240607161655.png",
     "Assets/Pasted image 20240607161642.png",
     "Assets/Pasted image 20240607161623.png",
-    "DSA Java/Strings.md",
     "intern JSM",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
