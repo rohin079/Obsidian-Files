@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md",
+                "file": "React/State Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md",
+                "file": "React/State Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md",
+                "file": "React/State Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md"
+                "file": "React/State Management.md"
               }
             }
           }
@@ -188,6 +188,7 @@
   },
   "active": "4ba865fa9ec4931b",
   "lastOpenFiles": [
+    "intern JSM/TypeScript Basics.md",
     "Zelto/Flow Diagram of App.canvas",
     "Zelto/ZELTO STATUS.md",
     "intern JSM/Updates so far -.md",
@@ -199,7 +200,6 @@
     "React/Custom Hooks.md",
     "React/CSS FlexBox.md",
     "React/Components in React.md",
-    "intern JSM/TypeScript Basics.md",
     "Untitled.md",
     "DSA Java/Java Basics.md",
     "DSA Java/Patterns.md",
