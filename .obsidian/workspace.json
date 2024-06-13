@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/State Management.md",
+                "file": "React/Map Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/State Management.md",
+                "file": "React/Map Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/State Management.md",
+                "file": "React/Map Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/State Management.md"
+                "file": "React/Map Function.md"
               }
             }
           }
@@ -188,13 +188,15 @@
   },
   "active": "4ba865fa9ec4931b",
   "lastOpenFiles": [
+    "React/React Index.md",
+    "React/State Management.md",
+    "Harkirat Cohort/Web sockets and Web RTC.md",
     "intern JSM/TypeScript Basics.md",
     "Zelto/Flow Diagram of App.canvas",
     "Zelto/ZELTO STATUS.md",
     "intern JSM/Updates so far -.md",
     "React/Creating Website.md",
     "intern JSM/Cost Table.md",
-    "React/State Management.md",
     "React/Map Function.md",
     "React/How to store images in Production.md",
     "React/Custom Hooks.md",
@@ -205,7 +207,6 @@
     "DSA Java/Patterns.md",
     "DSA Java/Arrays.md",
     "DSA Java Assets/Pasted image 20231229170922.png",
-    "Harkirat Cohort/Web sockets and Web RTC.md",
     "Assets/Pasted image 20240610121407.png",
     "Hw.md",
     "JavaSc.md",
