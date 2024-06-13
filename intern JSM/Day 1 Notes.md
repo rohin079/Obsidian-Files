@@ -12,3 +12,9 @@ Working with multiple cores so that we can handle api's in a parallel manner. Us
 
 
 store inventory -> date, opening Quant, Closing quant, purchased, issued, wasted
+
+### Seeder Functions:
+
+Used for sending dummy data to the database
+
+
