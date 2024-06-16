@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intern JSM/Day 1 Notes.md",
+                "file": "React/State Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intern JSM/Day 1 Notes.md",
+                "file": "React/State Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intern JSM/Day 1 Notes.md",
+                "file": "React/State Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intern JSM/Day 1 Notes.md"
+                "file": "React/State Management.md"
               }
             }
           }
@@ -188,6 +188,7 @@
   },
   "active": "4ba865fa9ec4931b",
   "lastOpenFiles": [
+    "intern JSM/Day 1 Notes.md",
     "intern JSM/TypeScript Basics.md",
     "intern JSM/Updates so far -.md",
     "React/Map Function.md",
@@ -212,7 +213,6 @@
     "JavaSc.md",
     "Untitled 3.md",
     "Untitled.canvas",
-    "intern JSM/Day 1 Notes.md",
     "Assets/Pasted image 20240212174220.png",
     "Assets/Pasted image 20240212182541.png",
     "Assets/Pasted image 20240327122852.png",

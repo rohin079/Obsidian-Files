@@ -26,3 +26,4 @@ For managing state in our project, we can either use :
 For recoil, we can simply update the parent state, but it has a con that everything will re-render again
 
 Recoil is a statement management library - helps in reducing the amount of re-renders by only rendering those components jisme state ko subscribe karra hua hai.
+
