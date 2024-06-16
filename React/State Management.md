@@ -44,3 +44,7 @@ This is how we can create selectors
 
 Its a good practice to add isloading key for all backend operations to show a loading spinner in frontend
 
+components can subscribe to only those selectors that they need to update.
+
+usually people dont optimize the app this much and pull everything from store to components
+
