@@ -11,12 +11,9 @@
             "id": "4ba865fa9ec4931b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "React/State Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Assets/Pasted image 20240507103401.png"
               }
             }
           },
@@ -59,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,14 +184,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ba865fa9ec4931b",
+  "active": "3f989261c92dc67d",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240616222945.png",
+    "Assets/Pasted image 20240616221535.png",
+    "Assets/Pasted image 20240507103401.png",
+    "Assets/Pasted image 20240403133052.png",
+    "Assets/Pasted image 20240327122852.png",
+    "React/State Management.md",
     "intern JSM/Day 1 Notes.md",
     "intern JSM/TypeScript Basics.md",
     "intern JSM/Updates so far -.md",
     "React/Map Function.md",
     "React/React Index.md",
-    "React/State Management.md",
     "Harkirat Cohort/Web sockets and Web RTC.md",
     "Zelto/Flow Diagram of App.canvas",
     "Zelto/ZELTO STATUS.md",
@@ -215,18 +218,13 @@
     "Untitled.canvas",
     "Assets/Pasted image 20240212174220.png",
     "Assets/Pasted image 20240212182541.png",
-    "Assets/Pasted image 20240327122852.png",
     "Assets",
     "Flutter/Inkwell Widget.md",
     "Flutter/Flutter Project Structure.md",
     "Flutter/Text Widget in Flutter.md",
     "Flutter/Lists (Arrays) in Dart.md",
-    "Flutter/Buttons in Flutter.md",
     "Assets/Pasted image 20240607162143.png",
     "Assets/Pasted image 20240607161916.png",
-    "Assets/Pasted image 20240607161655.png",
-    "Assets/Pasted image 20240607161642.png",
-    "Assets/Pasted image 20240607161623.png",
     "intern JSM",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
