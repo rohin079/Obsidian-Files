@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md",
+                "file": "Harkirat Cohort/PM2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md",
+                "file": "Harkirat Cohort/PM2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md",
+                "file": "Harkirat Cohort/PM2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intern JSM/TypeScript Basics.md"
+                "file": "Harkirat Cohort/PM2.md"
               }
             }
           }
@@ -186,6 +186,8 @@
   },
   "active": "3f989261c92dc67d",
   "lastOpenFiles": [
+    "intern JSM/TypeScript Basics.md",
+    "Harkirat Cohort/PM2.md",
     "Assets/Pasted image 20240617113354.png",
     "Assets/Pasted image 20240617022943.png",
     "React/State Management.md",
@@ -203,7 +205,6 @@
     "Assets/Pasted image 20240403133052.png",
     "Assets/Pasted image 20240327122852.png",
     "intern JSM/Day 1 Notes.md",
-    "intern JSM/TypeScript Basics.md",
     "intern JSM/Updates so far -.md",
     "Zelto/Flow Diagram of App.canvas",
     "Zelto/ZELTO STATUS.md",
@@ -219,7 +220,6 @@
     "Untitled 3.md",
     "Untitled.canvas",
     "Assets/Pasted image 20240212174220.png",
-    "Assets/Pasted image 20240212182541.png",
     "Assets",
     "Flutter/Inkwell Widget.md",
     "Flutter/Flutter Project Structure.md",
