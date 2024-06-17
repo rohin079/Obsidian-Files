@@ -118,3 +118,4 @@ ex:
 >console.log(mathOperations.add(1, 4));  
 
 
+![[Pasted image 20240617022943.png]]

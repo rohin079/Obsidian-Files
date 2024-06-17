@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/State Management.md",
+                "file": "intern JSM/TypeScript Basics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/State Management.md",
+                "file": "intern JSM/TypeScript Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/State Management.md",
+                "file": "intern JSM/TypeScript Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/State Management.md"
+                "file": "intern JSM/TypeScript Basics.md"
               }
             }
           }
@@ -186,6 +186,8 @@
   },
   "active": "3f989261c92dc67d",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240617022943.png",
+    "React/State Management.md",
     "React/React Index.md",
     "React/Map Function.md",
     "React/Custom Hooks.md",
@@ -194,7 +196,6 @@
     "React/CSS FlexBox.md",
     "React/Components in React.md",
     "Harkirat Cohort/Web sockets and Web RTC.md",
-    "React/State Management.md",
     "Assets/Pasted image 20240616222945.png",
     "Assets/Pasted image 20240616221535.png",
     "Assets/Pasted image 20240507103401.png",
