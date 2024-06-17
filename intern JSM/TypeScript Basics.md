@@ -119,3 +119,5 @@ ex:
 
 
 ![[Pasted image 20240617022943.png]]
+
+![[Pasted image 20240617113354.png]]
