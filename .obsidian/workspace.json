@@ -44,6 +44,19 @@
             }
           },
           {
+            "id": "bfb9b20699ff101a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "953b88b99b92a1d4",
             "type": "leaf",
             "state": {
@@ -57,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harkirat Cohort/PM2.md",
+                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harkirat Cohort/PM2.md",
+                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harkirat Cohort/PM2.md"
+                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md"
               }
             }
           }
@@ -184,10 +197,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f989261c92dc67d",
+  "active": "bfb9b20699ff101a",
   "lastOpenFiles": [
-    "intern JSM/Updates so far -.md",
     "Harkirat Cohort/PM2.md",
+    "Harkirat Cohort/Reverse Proxies ( Nginx).md",
+    "Harkirat Cohort/Web sockets and Web RTC.md",
+    "Assets/Pasted image 20240701194017.png",
+    "Assets/Pasted image 20240701193759.png",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "intern JSM/Updates so far -.md",
     "intern JSM/TypeScript Basics.md",
     "Assets/Pasted image 20240617113354.png",
     "Assets/Pasted image 20240617022943.png",
@@ -199,7 +218,6 @@
     "React/Creating Website.md",
     "React/CSS FlexBox.md",
     "React/Components in React.md",
-    "Harkirat Cohort/Web sockets and Web RTC.md",
     "Assets/Pasted image 20240616222945.png",
     "Assets/Pasted image 20240616221535.png",
     "Assets/Pasted image 20240507103401.png",
@@ -214,17 +232,11 @@
     "DSA Java/Patterns.md",
     "DSA Java/Arrays.md",
     "DSA Java Assets/Pasted image 20231229170922.png",
-    "Assets/Pasted image 20240610121407.png",
     "Hw.md",
     "JavaSc.md",
-    "Untitled 3.md",
     "Untitled.canvas",
-    "Assets/Pasted image 20240212174220.png",
     "Assets",
     "Flutter/Inkwell Widget.md",
-    "Flutter/Flutter Project Structure.md",
-    "Flutter/Text Widget in Flutter.md",
-    "Flutter/Lists (Arrays) in Dart.md",
     "intern JSM",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
