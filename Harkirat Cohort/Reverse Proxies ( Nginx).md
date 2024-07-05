@@ -5,3 +5,7 @@ Reverse proxies like nginx run on the main http port like port 80 and then direc
 ![[Pasted image 20240701194017.png]]
 
 proxy is the service through which VPN's work, they take the request to the desired destination through some other network so it seems like you are sitting in USA or some other country wherein in reality you are still in India.
+
+Make both the dns point to the same ip address
+
+Now create Nginx config files for creating the reverse proxy

@@ -62,7 +62,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA Java/Call by Value and Call by Reference.md",
+                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b635821ce5ee4f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harkirat Cohort/Adding Certificates for HTTPS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Java/Call by Value and Call by Reference.md",
+                "file": "Harkirat Cohort/Adding Certificates for HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Java/Call by Value and Call by Reference.md",
+                "file": "Harkirat Cohort/Adding Certificates for HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Java/Call by Value and Call by Reference.md"
+                "file": "Harkirat Cohort/Adding Certificates for HTTPS.md"
               }
             }
           }
@@ -210,16 +223,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b739e16c64e65a5",
+  "active": "b635821ce5ee4f10",
   "lastOpenFiles": [
-    "DSA Java/Recursion.md",
+    "Harkirat Cohort/Reverse Proxies ( Nginx).md",
+    "Harkirat Cohort/Adding Certificates for HTTPS.md",
     "DSA Java/Call by Value and Call by Reference.md",
+    "DSA Java/Recursion.md",
     "DSA Java/Patterns.md",
     "DSA Java/Java Basics.md",
     "DSA Java/DSA Index.md",
     "DSA Java/Graphs.md",
     "DSA Java/Arrays.md",
-    "Harkirat Cohort/Reverse Proxies ( Nginx).md",
     "Untitled 2.md",
     "Untitled 3.md",
     "Harkirat Cohort/PM2.md",
@@ -248,7 +262,6 @@
     "Zelto/ZELTO STATUS.md",
     "intern JSM/Cost Table.md",
     "DSA Java Assets/Pasted image 20231229170922.png",
-    "Hw.md",
     "Untitled.canvas",
     "Assets",
     "intern JSM",
