@@ -83,6 +83,19 @@
             }
           },
           {
+            "id": "d037904785ae23b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harkirat Cohort/Deploy Frontend to AWS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "953b88b99b92a1d4",
             "type": "leaf",
             "state": {
@@ -96,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harkirat Cohort/Adding Certificates for HTTPS.md",
+                "file": "Harkirat Cohort/Deploy Frontend to AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harkirat Cohort/Adding Certificates for HTTPS.md",
+                "file": "Harkirat Cohort/Deploy Frontend to AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harkirat Cohort/Adding Certificates for HTTPS.md"
+                "file": "Harkirat Cohort/Deploy Frontend to AWS.md"
               }
             }
           }
@@ -223,10 +236,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b635821ce5ee4f10",
+  "active": "d037904785ae23b5",
   "lastOpenFiles": [
-    "Harkirat Cohort/Reverse Proxies ( Nginx).md",
     "Harkirat Cohort/Adding Certificates for HTTPS.md",
+    "Harkirat Cohort/Deploy Frontend to AWS.md",
+    "Assets/Pasted image 20240705192904.png",
+    "Harkirat Cohort/Reverse Proxies ( Nginx).md",
     "DSA Java/Call by Value and Call by Reference.md",
     "DSA Java/Recursion.md",
     "DSA Java/Patterns.md",
@@ -260,8 +275,6 @@
     "intern JSM/Day 1 Notes.md",
     "Zelto/Flow Diagram of App.canvas",
     "Zelto/ZELTO STATUS.md",
-    "intern JSM/Cost Table.md",
-    "DSA Java Assets/Pasted image 20231229170922.png",
     "Untitled.canvas",
     "Assets",
     "intern JSM",
