@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harkirat Cohort/Deploy Frontend to AWS.md",
+                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harkirat Cohort/Deploy Frontend to AWS.md",
+                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harkirat Cohort/Deploy Frontend to AWS.md",
+                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harkirat Cohort/Deploy Frontend to AWS.md"
+                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md"
               }
             }
           }
@@ -238,20 +238,22 @@
   },
   "active": "d037904785ae23b5",
   "lastOpenFiles": [
+    "Harkirat Cohort/PM2.md",
     "Harkirat Cohort/Adding Certificates for HTTPS.md",
     "Harkirat Cohort/Deploy Frontend to AWS.md",
+    "DSA Java/Strings.md",
+    "DSA Java/Patterns.md",
+    "DSA Java/Sorting.md",
     "Assets/Pasted image 20240705192904.png",
     "Harkirat Cohort/Reverse Proxies ( Nginx).md",
     "DSA Java/Call by Value and Call by Reference.md",
     "DSA Java/Recursion.md",
-    "DSA Java/Patterns.md",
     "DSA Java/Java Basics.md",
     "DSA Java/DSA Index.md",
     "DSA Java/Graphs.md",
     "DSA Java/Arrays.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "Harkirat Cohort/PM2.md",
     "Harkirat Cohort/Web sockets and Web RTC.md",
     "Assets/Pasted image 20240701194017.png",
     "Assets/Pasted image 20240701193759.png",
@@ -272,9 +274,7 @@
     "Assets/Pasted image 20240507103401.png",
     "Assets/Pasted image 20240403133052.png",
     "Assets/Pasted image 20240327122852.png",
-    "intern JSM/Day 1 Notes.md",
     "Zelto/Flow Diagram of App.canvas",
-    "Zelto/ZELTO STATUS.md",
     "Untitled.canvas",
     "Assets",
     "intern JSM",
