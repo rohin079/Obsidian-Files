@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
+                "file": "DSA Java/Java Basics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
+                "file": "Assets/Pasted image 20240507103401.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md",
+                "file": "Assets/Pasted image 20240507103401.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harkirat Cohort/Reverse Proxies ( Nginx).md"
+                "file": "Assets/Pasted image 20240507103401.png"
               }
             }
           }
@@ -236,8 +235,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d037904785ae23b5",
+  "active": "4ba865fa9ec4931b",
   "lastOpenFiles": [
+    "DSA Java/Java Basics.md",
+    "Harkirat Cohort/Reverse Proxies ( Nginx).md",
     "Harkirat Cohort/PM2.md",
     "Harkirat Cohort/Adding Certificates for HTTPS.md",
     "Harkirat Cohort/Deploy Frontend to AWS.md",
@@ -245,10 +246,8 @@
     "DSA Java/Patterns.md",
     "DSA Java/Sorting.md",
     "Assets/Pasted image 20240705192904.png",
-    "Harkirat Cohort/Reverse Proxies ( Nginx).md",
     "DSA Java/Call by Value and Call by Reference.md",
     "DSA Java/Recursion.md",
-    "DSA Java/Java Basics.md",
     "DSA Java/DSA Index.md",
     "DSA Java/Graphs.md",
     "DSA Java/Arrays.md",

@@ -83,5 +83,7 @@ Post increament - Pehle current value use hoga fir increament
 ![[Pasted image 20240607162143.png]]
 
 
+`To store minimum value (- infinity) in java we can use : int a = integer.MIN_VALUE
+
 
 
