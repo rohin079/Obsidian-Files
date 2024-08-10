@@ -11,9 +11,12 @@
             "id": "4ba865fa9ec4931b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Pasted image 20240507103401.png"
+                "file": "React/State Management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -174,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20240507103401.png",
+                "file": "React/State Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20240507103401.png",
+                "file": "React/State Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Pasted image 20240507103401.png"
+                "file": "React/State Management.md"
               }
             }
           }
@@ -237,11 +240,13 @@
   },
   "active": "4ba865fa9ec4931b",
   "lastOpenFiles": [
-    "DSA Java/Java Basics.md",
+    "Harkirat Cohort/Web sockets and Web RTC.md",
     "Harkirat Cohort/Reverse Proxies ( Nginx).md",
-    "Harkirat Cohort/PM2.md",
-    "Harkirat Cohort/Adding Certificates for HTTPS.md",
     "Harkirat Cohort/Deploy Frontend to AWS.md",
+    "Harkirat Cohort/Adding Certificates for HTTPS.md",
+    "Harkirat Cohort/PM2.md",
+    "Assets/Pasted image 20240507103401.png",
+    "DSA Java/Java Basics.md",
     "DSA Java/Strings.md",
     "DSA Java/Patterns.md",
     "DSA Java/Sorting.md",
@@ -253,7 +258,6 @@
     "DSA Java/Arrays.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "Harkirat Cohort/Web sockets and Web RTC.md",
     "Assets/Pasted image 20240701194017.png",
     "Assets/Pasted image 20240701193759.png",
     "intern JSM/Updates so far -.md",
@@ -267,10 +271,8 @@
     "React/How to store images in Production.md",
     "React/Creating Website.md",
     "React/CSS FlexBox.md",
-    "React/Components in React.md",
     "Assets/Pasted image 20240616222945.png",
     "Assets/Pasted image 20240616221535.png",
-    "Assets/Pasted image 20240507103401.png",
     "Assets/Pasted image 20240403133052.png",
     "Assets/Pasted image 20240327122852.png",
     "Zelto/Flow Diagram of App.canvas",
