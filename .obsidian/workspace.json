@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA Java/DSA Index.md",
+                "file": "Harkirat Cohort/PM2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Java/DSA Index.md",
+                "file": "Harkirat Cohort/PM2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Java/DSA Index.md",
+                "file": "Harkirat Cohort/PM2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Java/DSA Index.md"
+                "file": "Harkirat Cohort/PM2.md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "d037904785ae23b5",
   "lastOpenFiles": [
+    "Harkirat Cohort/Adding Certificates for HTTPS.md",
+    "DSA Java/DSA Index.md",
     "DSA Java/Call by Value and Call by Reference.md",
     "DSA Java/Java Basics.md",
-    "Harkirat Cohort/Adding Certificates for HTTPS.md",
     "Harkirat Cohort/Reverse Proxies ( Nginx).md",
     "DSA Java/Recursion.md",
     "Harkirat Cohort/PM2.md",
@@ -177,7 +178,6 @@
     "DSA Java/Patterns.md",
     "DSA Java/Sorting.md",
     "Assets/Pasted image 20240705192904.png",
-    "DSA Java/DSA Index.md",
     "DSA Java/Graphs.md",
     "DSA Java/Arrays.md",
     "Untitled 2.md",
