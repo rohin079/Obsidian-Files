@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "870eab1496ddba5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harkirat Cohort/Next js.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "953b88b99b92a1d4",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harkirat Cohort/Logging and Monitoring.md",
+                "file": "Harkirat Cohort/Next js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harkirat Cohort/Logging and Monitoring.md",
+                "file": "Harkirat Cohort/Next js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harkirat Cohort/Logging and Monitoring.md"
+                "file": "Harkirat Cohort/Next js.md"
               }
             }
           }
@@ -187,13 +200,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e26202a8b46e370",
+  "active": "870eab1496ddba5a",
   "lastOpenFiles": [
+    "Assets/Pasted image 20241010021505.png",
+    "Harkirat Cohort/Logging and Monitoring.md",
+    "Harkirat Cohort/Next js.md",
     "Assets/Pasted image 20241009232659.png",
     "Assets/Pasted image 20241005190042.png",
     "Assets/Pasted image 20241003145819.png",
     "Harkirat Cohort/Adding Certificates for HTTPS.md",
-    "Harkirat Cohort/Logging and Monitoring.md",
     "Harkirat Cohort/Deploy Frontend to AWS.md",
     "Harkirat Cohort/PM2.md",
     "Harkirat Cohort/Web sockets and Web RTC.md",
@@ -221,11 +236,9 @@
     "Untitled 2.md",
     "Untitled 3.md",
     "Assets/Pasted image 20240701194017.png",
-    "Assets/Pasted image 20240701193759.png",
     "intern JSM/Updates so far -.md",
     "intern JSM/TypeScript Basics.md",
     "React/React Index.md",
-    "React/Map Function.md",
     "Zelto/Flow Diagram of App.canvas",
     "Untitled.canvas",
     "Assets",
