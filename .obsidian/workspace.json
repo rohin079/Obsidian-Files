@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "651a3ce3e53b56f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harkirat Cohort/CSS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "953b88b99b92a1d4",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harkirat Cohort/Next js.md",
+                "file": "Harkirat Cohort/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harkirat Cohort/Next js.md",
+                "file": "Harkirat Cohort/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harkirat Cohort/Next js.md"
+                "file": "Harkirat Cohort/CSS.md"
               }
             }
           }
@@ -200,14 +213,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "870eab1496ddba5a",
+  "active": "651a3ce3e53b56f7",
   "lastOpenFiles": [
+    "Assets/Pasted image 20241014144042.png",
+    "Assets/Pasted image 20241014143744.png",
+    "Assets/Pasted image 20241014143600.png",
+    "Harkirat Cohort/Next js.md",
+    "Harkirat Cohort/CSS.md",
     "Assets/Pasted image 20241011175232.png",
     "Assets/Pasted image 20241011132252.png",
     "Assets/Pasted image 20241010124924.png",
     "Assets/Pasted image 20241010021505.png",
     "Harkirat Cohort/Logging and Monitoring.md",
-    "Harkirat Cohort/Next js.md",
     "Assets/Pasted image 20241009232659.png",
     "Assets/Pasted image 20241005190042.png",
     "Assets/Pasted image 20241003145819.png",
@@ -221,11 +238,8 @@
     "DSA Java/Java Basics.md",
     "Oracle/Interview.md",
     "Assets/Pasted image 20240918125938.png",
-    "Assets/Pasted image 20240918125911.png",
-    "Assets/Pasted image 20240918125845.png",
     "Zelto/ZELTO STATUS.md",
     "Oracle",
-    "Flutter Assets/Pasted image 20231227162108.png",
     "DSA Java/Call by Value and Call by Reference.md",
     "DSA Java/Recursion.md",
     "intern JSM/Cost Table.md",
@@ -238,7 +252,6 @@
     "Untitled 3.md",
     "intern JSM/Updates so far -.md",
     "intern JSM/TypeScript Basics.md",
-    "React/React Index.md",
     "Zelto/Flow Diagram of App.canvas",
     "Untitled.canvas",
     "Assets",
