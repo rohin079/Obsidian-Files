@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ZELTO STATUS"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Adding Certificates for HTTPS"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Logging and Monitoring"
             }
           },
           {
@@ -56,7 +62,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Next js"
             }
           },
           {
@@ -69,7 +77,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
             }
           },
           {
@@ -82,7 +92,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
             }
           },
           {
@@ -95,7 +107,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Day 1 Notes"
             }
           }
         ],
@@ -119,7 +133,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -134,7 +150,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -142,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -173,7 +193,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Docker"
             }
           },
           {
@@ -185,7 +207,9 @@
                 "file": "Harkirat Cohort/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Docker"
             }
           },
           {
@@ -196,7 +220,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -206,7 +232,9 @@
               "type": "outline",
               "state": {
                 "file": "Harkirat Cohort/Docker.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Docker"
             }
           }
         ]
@@ -228,6 +256,7 @@
   },
   "active": "30f588549bd0241e",
   "lastOpenFiles": [
+    "Assets/Pasted image 20241020212356.png",
     "Assets/Pasted image 20241018103655.png",
     "Assets/Pasted image 20241017204248.png",
     "Assets/Pasted image 20241015224918.png",
@@ -242,7 +271,6 @@
     "Assets/Pasted image 20241011175232.png",
     "Assets/Pasted image 20241011132252.png",
     "Assets/Pasted image 20241010124924.png",
-    "Assets/Pasted image 20241010021505.png",
     "Harkirat Cohort/Logging and Monitoring.md",
     "Harkirat Cohort/Adding Certificates for HTTPS.md",
     "Harkirat Cohort/Deploy Frontend to AWS.md",
