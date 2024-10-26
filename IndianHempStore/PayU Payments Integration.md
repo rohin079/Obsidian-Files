@@ -20,3 +20,4 @@ Integration security
 
 [After receiving a response from PayU, you must calculate the hash again and validate it against the hash that you sent in the request to ensure the transaction is secure. PayU recommends implementing the transaction details APIs and webhook/callback as an extra security measure. For more information on this process, refer to](https://docs.payu.in/docs/handling-the-redirect-urls) [Get Transaction Details API](https://docs.payu.in/reference/get_transaction_details_api) APIs and [Webhooks](https://docs.payu.in/docs/webhooks) documentation.
 
+https://docs.payu.in/docs/generate-hash-payu-hosted
