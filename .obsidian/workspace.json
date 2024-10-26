@@ -4,116 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c0238426b446713b",
+        "id": "60d6fa2f25db8971",
         "type": "tabs",
         "children": [
           {
-            "id": "d037904785ae23b5",
+            "id": "a3db3d5694189a92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zelto/ZELTO STATUS.md",
+                "file": "IndianHempStore/PayU Payments Integration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZELTO STATUS"
-            }
-          },
-          {
-            "id": "7823b3e6d069a738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harkirat Cohort/Adding Certificates for HTTPS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adding Certificates for HTTPS"
-            }
-          },
-          {
-            "id": "7e26202a8b46e370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harkirat Cohort/Logging and Monitoring.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logging and Monitoring"
-            }
-          },
-          {
-            "id": "870eab1496ddba5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harkirat Cohort/Next js.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Next js"
-            }
-          },
-          {
-            "id": "651a3ce3e53b56f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harkirat Cohort/CSS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSS"
-            }
-          },
-          {
-            "id": "30f588549bd0241e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/How to store images in Production.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to store images in Production"
-            }
-          },
-          {
-            "id": "953b88b99b92a1d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intern JSM/Day 1 Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 1 Notes"
+              "title": "PayU Payments Integration"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,8 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30f588549bd0241e",
+  "active": "a3db3d5694189a92",
   "lastOpenFiles": [
+    "Assets/Pasted image 20241026113422.png",
+    "React/How to store images in Production.md",
+    "IndianHempStore/PayU Payments Integration.md",
+    "IndianHempStore",
     "Minor 2/Oracle/Interview.md",
     "Minor 2/Oracle",
     "React/State Management.md",
@@ -290,9 +203,6 @@
     "Harkirat Cohort/CSS.md",
     "Assets/Pasted image 20241014144042.png",
     "Assets/Pasted image 20241014143744.png",
-    "Harkirat Cohort/Web sockets and Web RTC.md",
-    "Harkirat Cohort/Reverse Proxies ( Nginx).md",
-    "DSA Java/Arrays.md",
     "Oracle",
     "Zelto/Flow Diagram of App.canvas",
     "Untitled.canvas",
@@ -304,7 +214,6 @@
     "Machine Learning",
     "Zelto",
     "React",
-    "Minor 2",
-    "DSA Java Assets"
+    "Minor 2"
   ]
 }
