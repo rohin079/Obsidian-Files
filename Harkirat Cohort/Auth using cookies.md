@@ -12,3 +12,4 @@ CSRF Attacks
 
 ![[Pasted image 20241028134310.png]]
 
+
