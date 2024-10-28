@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "PayU Payments Integration"
             }
+          },
+          {
+            "id": "4349b5bbdad0d937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harkirat Cohort/Auth using cookies.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auth using cookies"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,14 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3db3d5694189a92",
+  "active": "4349b5bbdad0d937",
   "lastOpenFiles": [
+    "Assets/Pasted image 20241028125808.png",
+    "Assets/Pasted image 20241028125326.png",
+    "IndianHempStore/PayU Payments Integration.md",
+    "Harkirat Cohort/Auth using cookies.md",
     "Assets/Pasted image 20241026162216.png",
     "Assets/Pasted image 20241026122457.png",
     "Assets/Pasted image 20241026122430.png",
     "Assets/Pasted image 20241026113422.png",
     "React/How to store images in Production.md",
-    "IndianHempStore/PayU Payments Integration.md",
     "IndianHempStore",
     "Minor 2/Oracle/Interview.md",
     "Minor 2/Oracle",
@@ -199,10 +218,7 @@
     "Assets/Pasted image 20241020222604.png",
     "Assets/Pasted image 20241020212356.png",
     "Assets/Pasted image 20241018103655.png",
-    "Assets/Pasted image 20241017204248.png",
-    "Assets/Pasted image 20241015224918.png",
     "Zelto/ZELTO STATUS.md",
-    "Harkirat Cohort/CSS.md",
     "Oracle",
     "Zelto/Flow Diagram of App.canvas",
     "Untitled.canvas",
