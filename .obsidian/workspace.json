@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harkirat Cohort/Auth using cookies.md",
+                "file": "Harkirat Cohort/Kubernetes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auth using cookies"
+              "title": "Kubernetes"
             }
           },
           {
@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Next Auth"
             }
+          },
+          {
+            "id": "ea1898a46fa650a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minor 2/Oracle/Interview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,18 +193,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb38e28647f0ab39",
+  "active": "4349b5bbdad0d937",
   "lastOpenFiles": [
+    "Harkirat Cohort/CSS.md",
+    "Harkirat Cohort/Kubernetes.md",
+    "Assets/Pasted image 20241030233012.png",
+    "Assets/Pasted image 20241030232758.png",
     "Harkirat Cohort/Auth using cookies.md",
+    "Minor 2/Oracle/Interview.md",
+    "IndianHempStore/PayU Payments Integration.md",
+    "intern JSM/Day 1 Notes.md",
+    "intern JSM/TypeScript Basics.md",
     "Harkirat Cohort/Next Auth.md",
     "Harkirat Cohort/Next js.md",
-    "IndianHempStore/PayU Payments Integration.md",
     "Harkirat Cohort/Adding Certificates for HTTPS.md",
     "Harkirat Cohort/Deploy Frontend to AWS.md",
     "Harkirat Cohort/Docker.md",
     "Harkirat Cohort/PM2.md",
     "Harkirat Cohort/Web sockets and Web RTC.md",
-    "Harkirat Cohort/CSS.md",
     "Assets/Pasted image 20241028134310.png",
     "Assets/Pasted image 20241028132247.png",
     "Assets/Pasted image 20241028125808.png",
@@ -201,7 +221,6 @@
     "Assets/Pasted image 20241026113422.png",
     "React/How to store images in Production.md",
     "IndianHempStore",
-    "Minor 2/Oracle/Interview.md",
     "Minor 2/Oracle",
     "React/State Management.md",
     "React/React Index.md",
@@ -209,16 +228,10 @@
     "React/Custom Hooks.md",
     "React/Creating Website.md",
     "React/Components in React.md",
-    "intern JSM/TypeScript Basics.md",
     "intern JSM/Updates so far -.md",
-    "intern JSM/Day 1 Notes.md",
     "intern JSM/Cost Table.md",
-    "Flutter Assets/Pasted image 20231227204610.png",
-    "Flutter Assets/Pasted image 20231227162806.png",
     "DSA Java/Java Basics.md",
     "DSA Java/Strings.md",
-    "DSA Java/Sorting.md",
-    "DSA Java/Recursion.md",
     "Oracle",
     "Zelto/Flow Diagram of App.canvas",
     "Untitled.canvas",
