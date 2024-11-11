@@ -68,3 +68,15 @@ deployments take care of starting the pods, rolling them back, updating pods, br
 A Deployment is a higher-level controller that manages a set of identical Pods. It ensures the desired number of Pods are running and provides declarative updates to the Pods it manages.
 
 you can make a deployment by either running a single command or making a manifest file like deployment.yml
+
+![[Pasted image 20241111163604.png]]
+
+a deployment actually creates a replicaset that creates the replicaset
+
+replicasets: 
+
+A ReplicaSet in Kubernetes is a controller that ensures a specified number of pod replicas are running at any given time. It is used to maintain a stable set of replica Pods running in the cluster, even if some Pods fail or are deleted.
+
+When you create a deployment, you mention the amount of `replicas` you want for this specific pod to run. The deployment then creates a new `ReplicaSet` that is responsible for creating X number of pods.
+
+whenever we update a deployment and reapply it, it first creates another replicaset, which in turn tries to create new pods, and if those pods work, it slowly moves the traffic from old replicaset to new one, similar to blue green deployments
