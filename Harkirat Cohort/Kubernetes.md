@@ -29,3 +29,4 @@ each worker node can run multiple pods and pods run containers
 1. kublet - small process running inside each worker node checking if there is a pod you need to deploy or not, keep polling the master node
 
 2. kube-proxy -  
+3. 
