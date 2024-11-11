@@ -54,5 +54,17 @@ Manifest files for running a pod using config:
 
 ![[Pasted image 20241111143746.png]]
 
+Deployments:
+
+![[Pasted image 20241111155025.png]]
 
 
+```
+kubectl 
+```
+
+deployments take care of starting the pods, rolling them back, updating pods, bringing them back up, roll back capabilities
+
+A Deployment is a higher-level controller that manages a set of identical Pods. It ensures the desired number of Pods are running and provides declarative updates to the Pods it manages.
+
+you can make a deployment by either running a single command or making a manifest file like deployment.yml
