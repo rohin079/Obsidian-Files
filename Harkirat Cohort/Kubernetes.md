@@ -80,3 +80,62 @@ A ReplicaSet in Kubernetes is a controller that ensures a specified number of po
 When you create a deployment, you mention the amount of `replicas` you want for this specific pod to run. The deployment then creates a new `ReplicaSet` that is responsible for creating X number of pods.
 
 whenever we update a deployment and reapply it, it first creates another replicaset, which in turn tries to create new pods, and if those pods work, it slowly moves the traffic from old replicaset to new one, similar to blue green deployments
+
+# Services
+
+In Kubernetes, a "Service" is an abstraction that defines a logical set of Pods and a policy by which to access them. Kubernetes Services provide a way to expose applications running on a set of Pods as network services. Here are the key points about Services in Kubernetes:
+
+Key concepts
+
+1. **Pod Selector**: Services use labels to select the Pods they target. A label selector identifies a set of Pods based on their labels.
+
+2. **Service Types**:
+
+- **ClusterIP**: Exposes the Service on an internal IP in the cluster. This is the default ServiceType. The Service is only accessible within the cluster.
+
+- **NodePort**: Exposes the Service on each Node’s IP at a static port (the NodePort). A ClusterIP Service, to which the NodePort Service routes, is automatically created. You can contact the NodePort Service, from outside the cluster, by requesting `<NodeIP>:<NodePort>`.
+
+- **LoadBalancer**: Exposes the Service externally using a cloud provider’s load balancer. NodePort and ClusterIP Services, to which the external load balancer routes, are automatically created.
+
+3. **Endpoints**: These are automatically created and updated by Kubernetes when the Pods selected by a Service's selector change.
+
+- Create service.yml
+
+```javascript
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx-service
+spec:
+  selector:
+    app: nginx
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+      nodePort: 30007  # This port can be any valid port within the NodePort range
+  type: NodePort
+```
+
+- Restart the cluster with a few extra ports exposed (create kind.yml)
+
+```javascript
+kind: Cluster
+apiVersion: kind.x-k8s.io/v1alpha4
+nodes:
+- role: control-plane
+  extraPortMappings:
+  - containerPort: 30007
+    hostPort: 30007
+- role: worker
+- role: worker
+```
+
+- kind create cluster --config kind.yml
+
+- Re apply the deployment and the service
+
+- Visit `localhost:30007`
+
+![notion image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F085e8ad8-528e-47d7-8922-a23dc4016453%2Fefabe5a1-bac7-4b64-bbb6-e482c1f426a7%2FScreenshot_2024-06-01_at_5.05.13_PM.png?table=block&id=2692c080-a889-4465-aa27-6f7330fcb2d4&cache=v2)
+
