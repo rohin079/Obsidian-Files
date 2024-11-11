@@ -29,4 +29,30 @@ each worker node can run multiple pods and pods run containers
 1. kublet - small process running inside each worker node checking if there is a pod you need to deploy or not, keep polling the master node
 
 2. kube-proxy -  
-3. 
+
+used kind to start a cluster with a custom config file for starting 3 nodes which are essentially 3 docker images- 1 master + 2 worker
+
+interact with this master node using kubectl
+
+create a pod: 
+
+```
+➜  ~ kubectl run nginx --image=nginx --port=80
+pod/nginx created
+➜  ~ 
+
+```
+
+like how we run docker containers by docker run command, we are running kubectl commands which sends a request to your API server
+
+do delete a pod:
+```
+kubectl delete pod nginx
+```
+
+Manifest files for running a pod using config:
+
+![[Pasted image 20241111143746.png]]
+
+
+
