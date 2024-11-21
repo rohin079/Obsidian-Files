@@ -23,8 +23,5 @@ what a github actions workflow actually does is that it that it runs your code i
 to make a github workflow, simply create a workflows folder inside a .github folder and then create your .yml file in it.
 
 
-
-
-
-
-
+basically in this video we created a workflow that first builds the project and then uses a dockerfile to build image of that project and then push  that image to dockerhub using dockerhub credentials stored in github secrets and then have another step in github workflow that pull the latest image from dockerhub, stops the current container and run a container of that image.
+s
