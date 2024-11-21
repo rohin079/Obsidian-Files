@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harkirat Cohort/Docker.md",
+                "file": "Harkirat Cohort/CICD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Docker"
+              "title": "Backlinks for CICD"
             }
           },
           {
@@ -165,8 +165,10 @@
   },
   "active": "2388660338896f1e",
   "lastOpenFiles": [
-    "Harkirat Cohort/Harkirat Cohort Index.md",
+    "Harkirat Cohort/Auth using cookies.md",
+    "intern JSM/Cost Table.md",
     "Harkirat Cohort/CICD.md",
+    "Harkirat Cohort/Harkirat Cohort Index.md",
     "Harkirat Cohort/Kubernetes.md",
     "React/React Index.md",
     "Oracle/Interview.md",
@@ -185,7 +187,6 @@
     "React/Components in React.md",
     "Harkirat Cohort/Deploy Frontend to AWS.md",
     "Harkirat Cohort/CSS.md",
-    "Harkirat Cohort/Auth using cookies.md",
     "Harkirat Cohort/Adding Certificates for HTTPS.md",
     "Assets/Pasted image 20241030233012.png",
     "Assets/Pasted image 20241030232758.png",
@@ -202,7 +203,6 @@
     "Assets/Pasted image 20241026162216.png",
     "IndianHempStore",
     "Oracle",
-    "React/Map Function.md",
     "Oracle",
     "Zelto/Flow Diagram of App.canvas",
     "Untitled.canvas",
