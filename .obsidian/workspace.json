@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cde351413641046",
+        "id": "322438fa3f503979",
         "type": "tabs",
         "children": [
           {
-            "id": "59221286809c3560",
+            "id": "60e9bb6f5651b605",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fc7f788261ea8bd",
@@ -163,14 +164,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59221286809c3560",
+  "active": "60e9bb6f5651b605",
   "lastOpenFiles": [
+    "React/React Index.md",
+    "Oracle/Interview.md",
+    "Harkirat Cohort/Harkirat Cohort Index.md",
+    "DSA Java/DSA Index.md",
+    "Harkirat Cohort/Kubernetes.md",
+    "Harkirat Cohort/Docker.md",
     "Assets/Pasted image 20241111163604.png",
     "Assets/Pasted image 20241111155025.png",
     "Assets/Pasted image 20241111143746.png",
-    "Minor 2/Oracle/Interview.md",
     "Harkirat Cohort/Next Auth.md",
-    "React/React Index.md",
     "React/State Management.md",
     "React/useState Hook.md",
     "React/How to store images in Production.md",
@@ -178,8 +183,6 @@
     "React/CSS FlexBox.md",
     "React/Creating Website.md",
     "React/Components in React.md",
-    "Harkirat Cohort/Kubernetes.md",
-    "Harkirat Cohort/Docker.md",
     "Harkirat Cohort/Deploy Frontend to AWS.md",
     "Harkirat Cohort/CSS.md",
     "Harkirat Cohort/Auth using cookies.md",
@@ -197,12 +200,10 @@
     "Assets/Pasted image 20241028125808.png",
     "Assets/Pasted image 20241028125326.png",
     "Assets/Pasted image 20241026162216.png",
-    "Assets/Pasted image 20241026122457.png",
     "IndianHempStore",
-    "Minor 2/Oracle",
+    "Oracle",
     "React/Map Function.md",
     "intern JSM/Updates so far -.md",
-    "intern JSM/Cost Table.md",
     "Oracle",
     "Zelto/Flow Diagram of App.canvas",
     "Untitled.canvas",
