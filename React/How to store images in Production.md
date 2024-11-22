@@ -1,4 +1,5 @@
 
+
 To store any file in any object store like `S3 Bucket` we can't send the image through the backend because that's a heavy task. 
 
 That's why we make use of presigned URL's. Basically whenever user sends a request to upload an image, it sends a request to backend which then sends a request to S3 for a custom pre-signed-url that allows it to generate a url with permission of uploading a single image.
