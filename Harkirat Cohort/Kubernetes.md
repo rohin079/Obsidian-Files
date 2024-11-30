@@ -139,4 +139,36 @@ nodes:
 
 ![notion image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F085e8ad8-528e-47d7-8922-a23dc4016453%2Fefabe5a1-bac7-4b64-bbb6-e482c1f426a7%2FScreenshot_2024-06-01_at_5.05.13_PM.png?table=block&id=2692c080-a889-4465-aa27-6f7330fcb2d4&cache=v2)
 
+Read about types of services -
+
+NodePort
+ClusterIP 
+LoadBalancer service
+
+
+best way - load balancer. Also the loadbalancer runs outside by kubernetes cluster.
+
+
+read about downsides of load balancers - 
+
+### Ingress
+
+The `kube-controller-manager` runs a bunch of `controllers` like
+
+1. Replicaset controller
+
+2. Deployment controller
+
+etc
+
+If you want to add an `ingress` to your kubernetes cluster, you need to install an `ingress controller` manually. It doesn’t come by default in k8s
+
+![[Pasted image 20241201004726.png]]
+
+![[Pasted image 20241201004908.png]]
+
+
+
+
+
 
