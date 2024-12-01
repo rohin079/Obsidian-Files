@@ -167,6 +167,113 @@ If you want to add an `ingress` to your kubernetes cluster, you need to install 
 
 ![[Pasted image 20241201004908.png]]
 
+### Namespaces
+
+In Kubernetes, a `namespace` is a way to divide cluster resources between multiple users/teams. Namespaces are intended for use in environments with many users spread across multiple teams, or projects, or environments like development, staging, and production
+
+When you do
+
+```javascript
+kubectl get pods
+```
+
+it gets you the `pods` in the `default` namespace
+
+#### 
+
+[](https://projects.100xdevs.com/tracks/kubernetes-part-2/Kubernetes-Part-2-9#2a1e6198db4543ff80beb88a38ffbed6 "Creating a new namespace")Creating a new namespace
+
+- Create a new namespace
+
+```javascript
+kubectl create namespace backend-team
+```
+
+- Get all the namespaces
+
+```javascript
+kubectl get namespaces
+```
+
+- Get all pods in the namespace
+
+```javascript
+kubectl get pods -n my-namespace
+```
+
+- Create the manifest for a deployment in the namespace
+
+```javascript
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+  namespace: backend-team
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: nginx
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:latest
+        ports:
+        - containerPort: 80
+```
+
+- Apply the manifest
+
+```javascript
+kubectl apply -f deployment-ns.yml
+```
+
+- Get the deployments in the namespace
+
+```javascript
+kubectl get deployment -n backend-team
+```
+
+- Get the pods in the namespace
+
+```javascript
+kubectl get pods -n backend-team
+```
+
+- Set the default context to be the namespace
+
+```javascript
+kubectl config set-context --current --namespace=backend-team
+```
+
+- Try seeing the pods now
+
+```javascript
+kubectl get pods
+```
+
+- Revert back the kubectl config
+
+```javascript
+kubectl config set-context --current --namespace=default
+```
+
+
+### Helm 
+
+Helm is package manager for k8's
+
+![[Pasted image 20241201013030.png]]
+
+
+
+
+
+
 
 
 
