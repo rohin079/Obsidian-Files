@@ -269,10 +269,52 @@ Helm is package manager for k8's
 
 ![[Pasted image 20241201013030.png]]
 
+### Secrets and configMaps
+
+Kubernetes suggests some standard configuration practises.
+
+These include things like
+
+1. You should always create a deployment rather than creating naked pods
+
+2. Write your configuration files using YAML rather than JSON
+
+3. Configuration files should be stored in version control before being pushed to the cluster
+
+Kubernetes v1 API also gives you a way to store `configuration` of your application outside the image/pod
+
+This is done using
+
+1. ConfigMaps
+
+2. Secrets
+
+#### 
+
+[](https://projects.100xdevs.com/tracks/kubernetes-part-2/Kubernetes-Part-2-13#833efbb481fe45cd800133938e70744c "Rule of thumb")Rule of thumb
+
+Don’t bake your application secrets in your docker image
+
+Pass them in as environment variables whenever you’re starting the container
 
 
 
+- **Purpose and Usage:**
 
+- **Secrets:** Designed specifically to store sensitive data such as passwords, OAuth tokens, and SSH keys.
+- **ConfigMaps:** Used to store non-sensitive configuration data, such as configuration files, environment variables, or command-line arguments
+
+
+
+- **Base64 Encoding:**
+
+- **Secrets:** The data stored in Secrets is base64 encoded. This is not encryption but simply encoding, making it slightly obfuscated. This encoding allows the data to be safely transmitted as part of JSON or YAML files.
+- **ConfigMaps:** Data in ConfigMaps is stored as plain text without any encoding.
+
+- **Volatility and Updates:**
+
+- **Secrets:** Often, the data in Secrets needs to be rotated or updated more frequently due to its sensitive nature.
+- **ConfigMaps:** Configuration data typically changes less frequently compared to sensitive data.
 
 
 
