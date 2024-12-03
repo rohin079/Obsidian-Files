@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "End Sem CCVT-.md",
+                "file": "Harkirat Cohort/Kubernetes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "End Sem CCVT-"
+              "title": "Kubernetes"
             }
           }
         ],
@@ -180,8 +180,9 @@
   },
   "active": "d922a65262ac997d",
   "lastOpenFiles": [
-    "Annotator Task.md",
+    "Harkirat Cohort/CICD.md",
     "End Sem CCVT-.md",
+    "Annotator Task.md",
     "Harkirat Cohort/Kubernetes.md",
     "Assets/Pasted image 20241201013030.png",
     "Assets/Pasted image 20241201004908.png",
@@ -198,7 +199,6 @@
     "Harkirat Cohort/Harkirat Cohort Index.md",
     "Harkirat Cohort/Deploy Frontend to AWS.md",
     "Harkirat Cohort/CSS.md",
-    "Harkirat Cohort/CICD.md",
     "Harkirat Cohort/Auth using cookies.md",
     "intern JSM/Cost Table.md",
     "Oracle/Interview.md",
