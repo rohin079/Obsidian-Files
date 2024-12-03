@@ -31,3 +31,7 @@ The end result is that users now have two options:
 2. New auto-assign method: Toggle on to automatically create one copy per annotator and assign each copy to a specific annotator
 
 Would you like to focus on any specific part of these changes or shall we test the implementation?
+
+
+
+main template file -> 
