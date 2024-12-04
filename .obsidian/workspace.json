@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annotator Task.md",
+                "file": "Harkirat Cohort/Next Auth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annotator Task"
+              "title": "Next Auth"
             }
           }
         ],
@@ -180,10 +180,10 @@
   },
   "active": "d922a65262ac997d",
   "lastOpenFiles": [
+    "Annotator Task.md",
     "Harkirat Cohort/Kubernetes.md",
     "Harkirat Cohort/CICD.md",
     "End Sem CCVT-.md",
-    "Annotator Task.md",
     "Assets/Pasted image 20241201013030.png",
     "Assets/Pasted image 20241201004908.png",
     "Assets/Pasted image 20241201004726.png",

@@ -9,3 +9,4 @@ NextAuth has 3 types of providers:
 2. Email - password less sign in
 3. Credentials
 
+
