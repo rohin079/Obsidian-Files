@@ -35,3 +35,28 @@ Would you like to focus on any specific part of these changes or shall we test t
 
 
 main template file -> 
+
+function to update - 
+
+```
+const updateStatus = async (action: StatusType, additionalData?: any) => {
+
+try {
+
+const newStatus = await setTaskStatus(id, action, additionalData?.feedback, additionalData?.reassignTo)
+
+setCurrentStatus(newStatus)
+
+toast.success(`The task has been ${action}`)
+
+router.back()
+
+} catch (error) {
+
+toast.error(`Failed to ${action} the task`)
+
+}
+
+}
+
+
