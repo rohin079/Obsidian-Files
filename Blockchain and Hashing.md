@@ -15,3 +15,6 @@ from a pubic key can you recieve funds and others can see your balance and trans
 ![[Pasted image 20241208125143.png]]
 
 
+private and public keys are an array of 32 bytes.
+
+There are difference encoding patterns to convert a byte to characters and back
